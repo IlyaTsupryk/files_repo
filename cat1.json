@@ -1,7 +1,7 @@
 {
     "name": "Space cat token",
     "description": "Introducing the future of space cats. A space cat Token. Floating in Space.",
-    "image": "<image link>",
+    "image": "https://ilyatsupryk.github.io/files_repo/cat1.png",
     "external_url": "https://github.com",
     "attributes": [
         {
