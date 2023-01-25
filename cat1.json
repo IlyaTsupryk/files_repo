@@ -1,0 +1,16 @@
+{
+    "name": "Space cat token",
+    "description": "Introducing the future of space cats. A space cat Token. Floating in Space.",
+    "image": "<image link>",
+    "external_url": "https://github.com",
+    "attributes": [
+        {
+            "trait_type": "Artefact", 
+            "value": "Spacecat"
+        },
+        {
+            "trait_type": "Collection", 
+            "value": "Genesis"
+        }
+    ]
+}
